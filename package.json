@@ -1,0 +1,19 @@
+{
+  "name": "@hedverse/spline",
+  "version": "1.0.0",
+  "main": "spline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedversecorp/spline.git"
+  },
+  "author": "rxeal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedversecorp/spline/issues"
+  },
+  "homepage": "https://github.com/hedversecorp/spline#readme",
+  "description": ""
+}
